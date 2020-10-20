@@ -1,2 +1,3 @@
 # byo-datalogger
-These are the code files for the FreakLabs Technology for Wildlife Series - Introduction to Arduino with Wildlogger 
+These are the files for the FreakLabs/Wildlabs Virtual Course - Build Your Own Datalogger
+https://www.wildlabs.net/resources/community-announcements/virtual-course-build-your-own-data-logger
