@@ -85,6 +85,7 @@ void loop()
     {
         flagTimer = 0;
         logData(TIMER);
+        rtc.resetTimer();
         Serial.println("Timer interrupt received.");
     }
 

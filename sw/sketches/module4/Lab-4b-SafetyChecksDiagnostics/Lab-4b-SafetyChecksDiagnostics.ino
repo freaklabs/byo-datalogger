@@ -108,6 +108,7 @@ void loop()
     if (flagTimer == 1)
     {
         flagTimer = 0;
+        rtc.resetTimer();
         Serial.println("Timer interrupt received.");
         logData(TIMER);
     }
